@@ -1,80 +1,10 @@
 {
   "users": [
     {
-      "id": 0,
-      "fullName": "Monty Python",
-      "email": "python@gmail.com",
-      "role": "Guest",
-      "status": "active"
-    },
-    {
       "id": 1,
       "fullName": "Monty Pythons",
       "email": "python@gmail.com",
       "role": "Guest",
-      "status": "active"
-    },
-    {
-      "id": 2,
-      "fullName": "Mihail Tonchev",
-      "email": "mihail.tonchev@musala.com",
-      "role": "Admin",
-      "status": "active"
-    },
-    {
-      "id": 3,
-      "fullName": "Svetoslava Yordanova",
-      "email": "svetoslav.yordanov@musala.com",
-      "role": "Travel",
-      "status": "active"
-    },
-    {
-      "id": 4,
-      "fullName": "Christabel Gammade",
-      "email": "cgammade3@slideshare.net",
-      "role": "Travel",
-      "status": "active"
-    },
-    {
-      "id": 5,
-      "fullName": "Kathi Sallasa",
-      "email": "ksalla4@myspace.com",
-      "role": "Travel",
-      "status": "active"
-    },
-    {
-      "id": 6,
-      "fullName": "Birdie Elce",
-      "email": "belce5@reverbnation.com",
-      "role": "Admin",
-      "status": "active"
-    },
-    {
-      "id": 7,
-      "fullName": "Gallagher Tidbury",
-      "email": "gtidbury6@weibo.com",
-      "role": "Admin",
-      "status": "active"
-    },
-    {
-      "id": 8,
-      "fullName": "Emmeline Clue",
-      "email": "eclue7@theglobeandmail.com",
-      "role": "Guest",
-      "status": "active"
-    },
-    {
-      "id": 9,
-      "fullName": "Cher Crawford",
-      "email": "ccrawford8@techcrunch.com",
-      "role": "Travel",
-      "status": "active"
-    },
-    {
-      "id": 10,
-      "fullName": "Lina Vinson",
-      "email": "lvinson9@state.tx.us",
-      "role": "Admin",
       "status": "active"
     }
    ]
